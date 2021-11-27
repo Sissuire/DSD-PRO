@@ -2,8 +2,7 @@
 
 PyTorch implementation of **UGC-VQA based on decomposition (dual-stream decompostion, DSD) and recomposition (progressively residual aggregation, PRO)**
 
-
-A new version v2.0 has been updated. We have added a LayerNorm, which shows a better generalization. 
+A new version v2.0 has been updated. We enable the normalization.
 
 ## Overview
 
