@@ -4,6 +4,10 @@ PyTorch implementation of **UGC-VQA based on decomposition (dual-stream decompos
 
 A new version v2.0 has been updated. We enable the normalization.
 
+---------------------
+
+The work had been already shaped in 2021, but suffered a long-time peer-review procedure with `submit-major-reject & resubmit-major-minor`. And during these hard days, I have seen some work with almost the same ideas has been published. Please don't be surprised if you do so. This is good since I can see we're in the same direction on this journey.
+
 ## Overview
 
 [TODO]
