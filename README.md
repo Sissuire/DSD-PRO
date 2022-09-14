@@ -72,3 +72,8 @@ The model uses 80%/20 for training/validation in one database, and is directly t
 |          KRCC          | 0.5580 |  0.4649  |
 |          PLCC          | 0.7485 |  0.6697  |
 |          RMSE          | 0.1113 |  0.1479  |
+
+
+### Contact
+
+Feel free to contact me with `yongxu.liu@stu.xidian.edu.cn` or `sissuire@163.com` if any question or bug.
