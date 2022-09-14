@@ -76,4 +76,4 @@ The model uses 80%/20 for training/validation in one database, and is directly t
 
 ### Contact
 
-Feel free to contact me with `yongxu.liu@stu.xidian.edu.cn` or `sissuire@163.com` if any question or bug.
+Feel free to contact me via `yongxu.liu@stu.xidian.edu.cn` or `sissuire@163.com` if any question or bug.
