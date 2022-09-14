@@ -14,7 +14,13 @@ The work had been already shaped in 2021, but suffered a long-time peer-review p
 
 ## Usage
 
-[TODO]
+The method is simple enough. 
+
+- Download the pretrained submodels first (see in the folder `pretrained_model`);
+- Run `demo_extract_first.py` to extract features from dual streams. 
+- Run `demo_run_main.py` or `demo_run_interdataset.py` to get the intra/inter-dataset performance in KoNViD-1K, LIVE-VQC, and YouTube-UGC. 
+
+We have provided the extracted features in KoNViD-1K, LIVE-VQC, and YouTube-UGC in the folder `./data/`. Any other dataset would be ok with the same procedure.
 
 ## Performance
 
