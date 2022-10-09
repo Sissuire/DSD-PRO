@@ -73,6 +73,17 @@ The model uses 80%/20 for training/validation in one database, and is directly t
 |          PLCC          | 0.7485 |  0.6697  |
 |          RMSE          | 0.1113 |  0.1479  |
 
+### Citation
+@ARTICLE{dsdpro,  
+  author={Liu, Yongxu and Wu, Jinjian and Li, Leida and Dong, Weisheng and Shi, Guangming},  
+   journal={IEEE Transactions on Circuits and Systems for Video Technology},   
+   title={Quality Assessment of UGC Videos Based on Decomposition and Recomposition},   
+   year={2022},  
+   volume={},  
+   number={},  
+   pages={1-1},  
+   doi={10.1109/TCSVT.2022.3209007}
+}
 
 ### Contact
 
