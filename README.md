@@ -74,6 +74,8 @@ The model uses 80%/20 for training/validation in one database, and is directly t
 |          RMSE          | 0.1113 |  0.1479  |
 
 ### Citation
+If you are interested in the work, or find the code helpful, please cite our work
+```
 @ARTICLE{dsdpro,  
   author={Liu, Yongxu and Wu, Jinjian and Li, Leida and Dong, Weisheng and Shi, Guangming},  
    journal={IEEE Transactions on Circuits and Systems for Video Technology},   
@@ -84,6 +86,7 @@ The model uses 80%/20 for training/validation in one database, and is directly t
    pages={1-1},  
    doi={10.1109/TCSVT.2022.3209007}
 }
+```
 
 ### Contact
 
