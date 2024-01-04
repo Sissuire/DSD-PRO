@@ -75,16 +75,17 @@ The model uses 80%/20 for training/validation in one database, and is directly t
 
 ### Citation
 If you are interested in the work, or find the code helpful, please cite our work
+
 ```
 @ARTICLE{dsdpro,  
   author={Liu, Yongxu and Wu, Jinjian and Li, Leida and Dong, Weisheng and Shi, Guangming},  
    journal={IEEE Transactions on Circuits and Systems for Video Technology},   
    title={Quality Assessment of UGC Videos Based on Decomposition and Recomposition},   
-   year={2022},  
-   volume={},  
-   number={},  
-   pages={1-1},  
-   doi={10.1109/TCSVT.2022.3209007}
+   year={2023},
+   volume={33},
+   number={3},
+   pages={1043-1054},
+   doi={10.1109/TCSVT.2022.3209007}}
 }
 ```
 
