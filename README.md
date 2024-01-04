@@ -85,10 +85,10 @@ If you are interested in the work, or find the code helpful, please cite our wor
    volume={33},
    number={3},
    pages={1043-1054},
-   doi={10.1109/TCSVT.2022.3209007}}
+   doi={10.1109/TCSVT.2022.3209007}
 }
 ```
 
 ### Contact
 
-Feel free to contact me via `yongxu.liu@stu.xidian.edu.cn` or `sissuire@163.com` if any question or bug.
+Feel free to contact me via `yongxu.liu@xidian.edu.cn` if any question or bug.
